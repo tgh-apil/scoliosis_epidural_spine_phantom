@@ -25,7 +25,8 @@ Coming soon
 ## Hardware
 
 - M5*14 pins
-- M4 Screws
+- 4 x M4*16 Bolts
+- 4 x M4*20 Bolts
 - Quick-turn Lock
 - 8 mm ID Silicone Tubing (as low durometer as possible)
 - Tube Fittings
@@ -90,7 +91,7 @@ In general, we use the following settings for *all* parts of this phantom:
 
 1. Print all components in the directory */molds/* using the PLA printing settings outlined above.
 2. Assemble mold parts 1, 2 and inner components together using M5*14 pins.
-3. Mix **750 g** of silicone according to manufacturers instructions.
+3. Mix **1300 g** of silicone according to manufacturers instructions.
     - Degassing the silicone is encoraged, but optional.
     - Adding colourant to silicone is optional.
 4. Pour all silicone into the assembled mold.
@@ -117,7 +118,7 @@ In general, we use the following settings for *all* parts of this phantom:
 2. If the gel does not contain graphite powder, slowly add graphite powder into fully liquefied mixture until saturated.
    1. For this phantom, this step is optional.  You can leave it clear if the learning objective is to insert an epidural without the use of ultrasound.
 3. Thread a length of silicone tubing through the scoliotic sipne to replicate the thecal sac.  The length should be just enough to reach end-to-end of the scoliotic spine.
-4. Attach scoliotic spine insert and thecal sac silicone tube into the silicone mold.
+4. Anchor scoliotic spine insert and thecal sac silicone tube into the silicone mold with 4 x M4*16 bolts.
 5. Pour gel into mold until the gel is flush with the top of the spine insert
 6. Allow gel to fully cool before removal from silicone molds.
 7. Remove previously installed silicone tube.
