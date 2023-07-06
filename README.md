@@ -2,7 +2,7 @@
 
 ![scoliotic spine phantom gel and spine upright](https://github.com/tgh-apil/scoliosis_epidural_spine_phantom/assets/84343976/6c12c82d-782f-4076-ad92-825588f3b97c)
 
-3D Printed thoracic and lumbar (T6 - L2) scoliotic spine based on CT data.  Our scoliotic spine phantom is encased in an synthetic, shelf-stable gel which has a realistic tactile feel to human muscle and is echogenic.  We can augment the echogenic properties to be transparent (clear gel) to mimicing that of biological tissue (opaque) based on the learning objective. Additionally, the Scoliotic Spine Epidural Phantom contains an echogenic faux-thecal sac to replicate loss-of resistance on puncture.  The faux-thecal sca can be inflated with water to simulate spinal fluid. 
+3D Printed thoracic and lumbar (T6 - L2) scoliotic spine based on CT data.  Our scoliotic spine phantom is encased in an synthetic, shelf-stable gel which has a realistic tactile feel to human muscle and is echogenic.  We can augment the echogenic properties to be transparent (clear gel, pictured above) to mimicing that of biological tissue (opaque) based on the learning objective. Additionally, the Scoliotic Spine Epidural Phantom contains an echogenic faux-thecal sac to replicate loss-of resistance on puncture.  The faux-thecal sca can be inflated with water to simulate spinal fluid. 
 
 This model was developed at the [Lynn & Arnold Irwin Advanced Perioperative Imaging Lab](https://apil.ca), Toronto General Hospital, University Health Network.
 
